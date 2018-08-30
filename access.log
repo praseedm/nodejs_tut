@@ -1,0 +1,7 @@
+::ffff:192.168.0.229 - - [30/Aug/2018:09:55:29 +0000] "GET /middleman HTTP/1.1" 200 23 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+::ffff:192.168.0.229 - - [30/Aug/2018:09:55:59 +0000] "GET /middleman HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+::ffff:192.168.0.229 - - [30/Aug/2018:09:56:09 +0000] "GET /middleman HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+::ffff:192.168.0.229 - - [30/Aug/2018:09:56:26 +0000] "GET /middleman/devices/2 HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+::ffff:192.168.0.229 - - [30/Aug/2018:09:56:37 +0000] "GET /middleman HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+::ffff:18.195.21.250 - - [30/Aug/2018:09:57:03 +0000] "POST /middleman/webhook/ HTTP/1.1" 200 24 "-" "-"
+::ffff:18.195.21.250 - - [30/Aug/2018:09:57:12 +0000] "POST /middleman/devices/HARDWAREID HTTP/1.1" 200 24 "-" "-"
