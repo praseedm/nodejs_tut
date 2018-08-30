@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "Express and particle cloud communication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/praseedm/nodejs_tut.git"
+  },
+  "keywords": [
+    "particle",
+    "cloud",
+    "nodejs"
+  ],
+  "author": "praseedm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praseedm/nodejs_tut/issues"
+  },
+  "homepage": "https://github.com/praseedm/nodejs_tut#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  }
+}
